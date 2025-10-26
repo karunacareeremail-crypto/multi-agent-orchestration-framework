@@ -5,7 +5,7 @@ A Python-based framework for building hierarchical multi-agent systems with spec
 [![Python](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
-[![CI/CD](https://github.com/yourusername/multi-agent-orchestration-framework/workflows/CI%2FCD%20Pipeline/badge.svg)](https://github.com/yourusername/multi-agent-orchestration-framework/actions)
+[![CI/CD](https://github.com/karunacareeremail-crypto/multi-agent-orchestration-framework/workflows/CI%2FCD%20Pipeline/badge.svg)](https://github.com/karunacareeremail-crypto/multi-agent-orchestration-framework/actions)
 
 ## 🚀 Features
 
@@ -78,7 +78,7 @@ graph TB
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/multi-agent-orchestration-framework.git
+git clone https://github.com/karunacareeremail-crypto/multi-agent-orchestration-framework.git
 cd multi-agent-orchestration-framework
 ```
 
